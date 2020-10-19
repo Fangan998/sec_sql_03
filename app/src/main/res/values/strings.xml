@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">12102020</string>
+    <string name="名字">name</string>
+    <string name="name">Name</string>
+    <string name="price">$</string>
+    <string name="new_add">new</string>
+    <string name="modify">modify</string>
+    <string name="del">delete</string>
+    <string name="clear">clear</string>
+
 </resources>
